@@ -6,6 +6,11 @@
 
 ## Instructions
 
+
+
+
+
+
 The local deli is putting in a new computerized queue to keep track of their customers and improve productivity. At the beginning of the day, the deli is empty so the queue should be represented by an empty array:
 
 ```ruby
