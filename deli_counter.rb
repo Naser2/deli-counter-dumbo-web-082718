@@ -29,4 +29,4 @@ def now_serving(katz_deli)
    return puts "Curently serving number: #{ katz_deli.length[0]} #{name}. \n \n ....The next in line is number #{next_in_line}"
    puts "There is nobody waiting to be served!"
  end 
-end gi
+end 
